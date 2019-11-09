@@ -1,3 +1,0 @@
-web programming|3|C|40
-database|3|D|40
-statistics|2|D|30
